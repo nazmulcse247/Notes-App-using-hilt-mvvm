@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hilt MVVVM Kotlin Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txt_login_header">Welcome Back!</string>
+    <string name="txt_login_subheader">Login to access your notes</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_no_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>
+</resources>
